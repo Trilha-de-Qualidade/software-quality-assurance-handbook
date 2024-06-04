@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# Começando
+# O que é pirâmide de teste?
 
 em construção

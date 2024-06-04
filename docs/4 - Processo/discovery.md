@@ -2,6 +2,6 @@
 sidebar_position: 3
 ---
 
-# Começando
+# Discovery
 
 em construção
