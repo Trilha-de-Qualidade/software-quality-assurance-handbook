@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Software Quality Assurance - Handbook',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Bem-vindo ao meu manual de Qualidade de Software.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -25,8 +25,8 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'pt-BR',
+    locales: ['en', 'pt-BR'],
   },
 
   presets: [
@@ -84,7 +84,7 @@ const config: Config = {
           title: 'Principal',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Comece sua trilha',
               to: '/docs/intro',
             },
             {
@@ -94,7 +94,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Trilha de Qualidade, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Trilha de Qualidade`,
     },
     prism: {
       theme: prismThemes.github,
