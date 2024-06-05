@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Software Quality Assurance - Handbook',
-  tagline: 'Bem-vindo ao meu manual de Qualidade de Software.',
+  tagline: 'Este Handbook é uma iniciativa open-source focada em fornecer recursos, melhores práticas e diretrizes para a comunidade de Software Quality Assurance (QA).',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here

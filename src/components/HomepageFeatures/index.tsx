@@ -10,32 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Para quem é este handbook',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Este handbook é destinado a todos que estão envolvidos ou interessados em garantir a qualidade do software. Se você é um profissional de QA, desenvolvedor, gerente de projeto, estudante ou entusiasta de tecnologia, encontrará informações valiosas aqui. 
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'O que irá aprender',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Aqui você encontrará uma variedade de tópicos cobrindo todos os aspectos do Software Quality Assurance. Desde conceitos básicos e terminologias até práticas avançadas de testes automatizados, gestão de qualidade e ferramentas.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Opensource, colabore',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Este projeto é open-source e dependemos da colaboração da comunidade para crescer e melhorar. 
       </>
     ),
   },
