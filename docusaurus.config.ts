@@ -70,11 +70,6 @@ const config: Config = {
           position: 'left',
           label: 'Comece por aqui',
         },
-        {
-          href: 'https://buymeacoffee.com/wederson',
-          label: 'Buy me a coffee',
-          position: 'right',
-        },
       ],
     },
     footer: {
