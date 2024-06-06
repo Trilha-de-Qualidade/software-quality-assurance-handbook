@@ -13,11 +13,10 @@ A Garantia de Qualidade de Software (QA) é uma parte essencial do desenvolvimen
 
 QA (Quality Assurance) refere-se a um conjunto de atividades planejadas e sistemáticas que garantem que os processos de desenvolvimento de software e os produtos finais atendam aos requisitos especificados e aos padrões de qualidade. QA não é apenas sobre testar o produto final, mas também sobre melhorar e monitorar os processos usados para criar esses produtos.
 
-### Diferença entre QA, QC e Teste
+### Diferença entre QA e Teste
 
-- **QA (Quality Assurance):** Focado em melhorar os processos para prevenir defeitos. Envolve a definição de padrões e metodologias que garantem a qualidade.
-- **QC (Quality Control):** Envolve a inspeção dos produtos para identificar defeitos. É a execução das atividades de QA para verificar a qualidade dos produtos.
-- **Teste de Software:** Processo de executar um programa ou sistema com a intenção de encontrar erros. É uma parte do QC.
+- **QA (Quality Assurance):** Focado em melhorar os processos e a inspeção dos produtos para prevenir defeitos. Envolve a definição de padrões e metodologias durante todo o ciclo de desenvolvimento que garantem a qualidade.
+- **Teste de Software:** Processo de executar um programa ou sistema com a intenção de encontrar erros. Normalmente o seu foco é no final do processo de desenvolvimento.
 
 ---
 ## Terminologias Comuns
