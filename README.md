@@ -52,7 +52,7 @@ Para mais detalhes sobre como contribuir, por favor, leia o nosso [Guia de Contr
 
 ## Como Usar
 
-Você pode acessar o Handbook diretamente através do GitHub Pages [aqui](https://seuusuario.github.io/SoftwareQualityAssuranceHandbook](https://handbook.trilhadequalidade.com.br/).
+Você pode acessar o Handbook diretamente através do GitHub Pages [aqui](https://handbook.trilhadequalidade.com.br/).
 
 ## Licença
 
