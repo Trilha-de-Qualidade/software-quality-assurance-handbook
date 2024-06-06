@@ -44,7 +44,7 @@ O Handbook está organizado nas seguintes seções:
 
 Este projeto é mantido por voluntários apaixonados por QA e estamos sempre em busca de contribuições. Existem várias maneiras de você colaborar:
 
-- **Participe das Discussões:** Junte-se a nós no [GitHub Discussions](#) para compartilhar suas ideias e sugestões.
+- **Participe das Discussões:** Junte-se a nós no [GitHub Discussions](https://github.com/Trilha-de-Qualidade/software-quality-assurance-handbook/discussions) para compartilhar suas ideias e sugestões.
 - **Contribua com Conteúdo:** Envie pull requests com novos conteúdos, correções e melhorias.
 - **Divulgue:** Ajude a espalhar a palavra sobre este projeto para alcançar mais pessoas.
 
@@ -52,7 +52,7 @@ Para mais detalhes sobre como contribuir, por favor, leia o nosso [Guia de Contr
 
 ## Como Usar
 
-Você pode acessar o Handbook diretamente através do GitHub Pages [aqui](https://seuusuario.github.io/SoftwareQualityAssuranceHandbook).
+Você pode acessar o Handbook diretamente através do GitHub Pages [aqui](https://seuusuario.github.io/SoftwareQualityAssuranceHandbook](https://handbook.trilhadequalidade.com.br/).
 
 ## Licença
 
