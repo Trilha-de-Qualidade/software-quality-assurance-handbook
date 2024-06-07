@@ -74,3 +74,8 @@ test('soma -1 + 1 para ser igual a 0', () => {
 test('soma -1 + -1 para ser igual a -2', () => {
     expect(soma(-1, -1)).toBe(-2);
 });
+```
+
+Neste exemplo, a função soma é testada para verificar se retorna os resultados corretos para diferentes entradas.
+
+Os testes de unidade são fundamentais para garantir a qualidade e a robustez do software desde as primeiras etapas do desenvolvimento. Implementar e manter uma boa suíte de testes de unidade contribui significativamente para a estabilidade e a manutenção eficiente do código.
