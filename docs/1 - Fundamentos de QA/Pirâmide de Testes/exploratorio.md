@@ -33,9 +33,9 @@ Os testes exploratórios possuem algumas características específicas:
 
 Embora os testes exploratórios não dependam de ferramentas específicas, algumas ferramentas podem ajudar a documentar e organizar o processo:
 
-- **Jira:** Para registrar e rastrear defeitos e histórias de teste.
-- **TestRail:** Para documentar os casos de teste exploratórios e capturar resultados.
-- **Session-based Test Management (SBTM):** Uma abordagem estruturada para gerenciar e registrar sessões de teste exploratório.
+- **[Jira](https://www.atlassian.com/br/software/jira):** Para registrar e rastrear defeitos e histórias de teste.
+- **[TestRail](https://www.testrail.com/):** Para documentar os casos de teste exploratórios e capturar resultados.
+- **[Session-based Test Management (SBTM)](https://www.testmo.com/):** Uma abordagem estruturada para gerenciar e registrar sessões de teste exploratório.
 
 ---
 
