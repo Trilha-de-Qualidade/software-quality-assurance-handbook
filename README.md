@@ -1,4 +1,5 @@
-<p align="center">
+<p align="center">    
+    <img src="https://img.shields.io/github/stars/Trilha-de-Qualidade/software-quality-assurance-handbook?style=social" alt="Website Trilha de Qualidade" />    
     <a href="https://www.trilhadequalidade.com.br/" target="_blank">
         <img src="https://img.shields.io/badge/Website-Trilha_de_qualidade-blue" alt="Website Trilha de Qualidade" />
     </a>
