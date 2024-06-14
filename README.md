@@ -51,6 +51,10 @@ Este projeto é mantido por voluntários apaixonados por QA e estamos sempre em 
 
 Para mais detalhes sobre como contribuir, por favor, leia o nosso [Guia de Contribuição](CONTRIBUTING.md).
 
+<a href="https://github.com/Trilha-de-Qualidade/software-quality-assurance-handbook/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Trilha-de-Qualidade/software-quality-assurance-handbook" />
+</a>
+
 ## Como Usar
 
 Você pode acessar o Handbook diretamente através do GitHub Pages [aqui](https://handbook.trilhadequalidade.com.br/).
